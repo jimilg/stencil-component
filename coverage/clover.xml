@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1557488244394" clover="3.2.0">
+  <project timestamp="1557488244394" name="All files">
+    <metrics statements="13" coveredstatements="10" conditionals="8" coveredconditionals="7" methods="5" coveredmethods="4" elements="26" coveredelements="21" complexity="0" loc="13" ncloc="13" packages="2" files="2" classes="2">
+      <package name="components.my-component">
+        <metrics statements="11" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="3"/>
+        <file name="my-component.tsx" path="/Users/e074694/dxp/sample-latest/my-component/src/components/my-component/my-component.tsx">
+          <metrics statements="11" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="3"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="2" count="1" type="stmt"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="29" count="3" type="stmt"/>
+          <line num="34" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="37" count="1" type="stmt"/>
+          <line num="38" count="1" type="stmt"/>
+          <line num="43" count="0" type="stmt"/>
+          <line num="44" count="0" type="stmt"/>
+          <line num="45" count="0" type="stmt"/>
+          <line num="50" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="utils">
+        <metrics statements="2" coveredstatements="2" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <file name="utils.ts" path="/Users/e074694/dxp/sample-latest/my-component/src/utils/utils.ts">
+          <metrics statements="2" coveredstatements="2" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+          <line num="2" count="2" type="stmt"/>
+          <line num="3" count="7" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
